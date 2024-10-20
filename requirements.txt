@@ -4,3 +4,4 @@ mediapipe
 joblib
 scikit-learn
 pandas
+pyinstaller
